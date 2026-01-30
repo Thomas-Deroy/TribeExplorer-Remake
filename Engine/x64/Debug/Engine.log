@@ -1,0 +1,109 @@
+﻿  BaseGame.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winbase.h(7939,5): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+  (compiling source file 'BaseGame.cpp')
+  
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\BaseGame.h(19,28): warning C4100: 'elapsedSec': unreferenced parameter
+  (compiling source file 'BaseGame.cpp')
+  
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\BaseGame.h(29,60): warning C4100: 'e': unreferenced parameter
+  (compiling source file 'BaseGame.cpp')
+  
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\BaseGame.h(33,58): warning C4100: 'e': unreferenced parameter
+  (compiling source file 'BaseGame.cpp')
+  
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\BaseGame.h(37,67): warning C4100: 'e': unreferenced parameter
+  (compiling source file 'BaseGame.cpp')
+  
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\BaseGame.h(41,65): warning C4100: 'e': unreferenced parameter
+  (compiling source file 'BaseGame.cpp')
+  
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\BaseGame.h(45,63): warning C4100: 'e': unreferenced parameter
+  (compiling source file 'BaseGame.cpp')
+  
+  Matrix2x3.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winbase.h(7939,5): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+  (compiling source file 'Matrix2x3.cpp')
+  
+  SoundEffect.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winbase.h(7939,5): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+  (compiling source file 'SoundEffect.cpp')
+  
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\SoundEffect.h(3,7): warning C4099: 'Mix_Chunk': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'SoundEffect.cpp')
+      C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Libraries\SDLMixer\SDL2_mixer-2.6.3\include\SDL_mixer.h(228,16):
+      see declaration of 'Mix_Chunk'
+  
+  SoundStream.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winbase.h(7939,5): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+  (compiling source file 'SoundStream.cpp')
+  
+  structs.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winbase.h(7939,5): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+  (compiling source file 'structs.cpp')
+  
+  SVGParser.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winbase.h(7939,5): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+  (compiling source file 'SVGParser.cpp')
+  
+  Texture.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winbase.h(7939,5): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+  (compiling source file 'Texture.cpp')
+  
+  utils.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winbase.h(7939,5): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+  (compiling source file 'utils.cpp')
+  
+  Vector2f.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um\winbase.h(7939,5): warning C5039: 'TpSetCallbackCleanupGroup': pointer or reference to potentially throwing function passed to 'extern "C"' function under -EHc. Undefined behavior may occur if this function throws an exception.
+  (compiling source file 'Vector2f.cpp')
+  
+  Generating Code...
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(175,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(175,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(173) : note: index 'angle' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(175,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(175) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(37,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(37,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(35) : note: index 'idx' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(37,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(37) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(147,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(147,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(145) : note: index 'angle' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(147,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(147) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(93,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(93,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(84) : note: index 'height' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(93,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(93) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(119,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(119,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(111) : note: index 'height' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(119,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(119) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(142,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(142,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(137) : note: index 'lineWidth' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(142,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(142) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(232,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(232,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(230) : note: index 'angle' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(232,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(232) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(206,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(206,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(204) : note: index 'angle' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(206,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(206) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(256,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(256,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(254) : note: index 'idx' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(256,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(256) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(273,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(273,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(271) : note: index 'idx' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(273,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(273) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(402,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(402,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(400) : note: index 'i' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(402,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(402) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(393,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(393,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(391) : note: index 'i' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(393,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(393) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(466,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(466,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(464) : note: index 'i' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(466,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\utils.cpp(466) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\SVGParser.cpp(56,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\SVGParser.cpp(56,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\SVGParser.cpp(53) : note: index 'i' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\SVGParser.cpp(56,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\SVGParser.cpp(56) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\Matrix2x3.cpp(52,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\Matrix2x3.cpp(52,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\Matrix2x3.cpp(50) : note: index 'idx' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\Matrix2x3.cpp(52,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\Matrix2x3.cpp(52) : note: feeds call on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\Matrix2x3.cpp(67,1): warning C5045: Compiler will insert Spectre mitigation for memory load if /Qspectre switch specified
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\Matrix2x3.cpp(67,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\Matrix2x3.cpp(65) : note: index 'idx' range checked by comparison on this line
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\Matrix2x3.cpp(67,1): warning C5045: C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\Matrix2x3.cpp(67) : note: feeds call on this line
+  Engine.vcxproj -> C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\x64\Debug\Engine.lib

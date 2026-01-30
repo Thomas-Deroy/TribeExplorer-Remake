@@ -1,0 +1,38 @@
+﻿  Button.cpp
+  Character.cpp
+  Door.cpp
+  Enemy.cpp
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\GameProject\Enemy.cpp(53,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\GameProject\Enemy.cpp(58,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Flag.cpp
+  Game.cpp
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\SoundEffect.h(3,7): warning C4099: 'Mix_Chunk': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Game.cpp')
+      C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Libraries\SDLMixer\SDL2_mixer-2.6.3\include\SDL_mixer.h(228,16):
+      see declaration of 'Mix_Chunk'
+  
+  Key.cpp
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\SoundEffect.h(3,7): warning C4099: 'Mix_Chunk': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'Key.cpp')
+      C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Libraries\SDLMixer\SDL2_mixer-2.6.3\include\SDL_mixer.h(228,16):
+      see declaration of 'Mix_Chunk'
+  
+  main.cpp
+C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Engine\SoundEffect.h(3,7): warning C4099: 'Mix_Chunk': type name first seen using 'struct' now seen using 'class'
+  (compiling source file 'main.cpp')
+      C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\Libraries\SDLMixer\SDL2_mixer-2.6.3\include\SDL_mixer.h(228,16):
+      see declaration of 'Mix_Chunk'
+  
+  Map.cpp
+  Particles.cpp
+  pch.cpp
+  Platform.cpp
+  Portal.cpp
+  Sprite.cpp
+  Text.cpp
+  GameProject.vcxproj -> C:\Users\thooo\source\repos\GameProjectExam\1DAE14_ThomasDeroy_GameProject\x64\Debug\GameProject.exe
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
+  0 File(s) copied
